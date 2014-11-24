@@ -7,6 +7,9 @@ Our goal is simple: Get the devices current location and display it in a Toast. 
 
 ##Instructions 
 
+* Create a new Project Location-Updater 
+* Use the Blank Activity Template and name your activity `LocationUpdaterActivity.java` 
+
 ### Manifest and Build.gradle 
 
 	* Add Permissions to Manifest.xml to enable fine location updates
